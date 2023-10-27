@@ -1,4 +1,4 @@
-### Read me please
+### Details
 For reading main insights please visit '/results/Results-Part2'
 For data 
 - visit 'data/titanic.csv' for raw data
